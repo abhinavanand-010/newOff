@@ -355,3 +355,6 @@ now making changes to cr.yaml
 
 ---
 
+<img width="761" alt="{9059212B-5633-443A-93E9-1062464C2B66}" src="https://github.com/user-attachments/assets/f929d04b-ba0a-4984-9dd7-702298778ebd" />
+<img width="926" alt="{F556CC97-8695-49E2-B174-DB4176944C68}" src="https://github.com/user-attachments/assets/3b203ea1-90ed-41ee-b1cf-0eaccb51e24f" />
+
